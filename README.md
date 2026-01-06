@@ -51,12 +51,10 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goal
 
 - ✅ Build and deploy 3 backend projects
-- ✅ Open-source contribution to a women-in-tech repo
-- 🚀 Launch my portfolio website
-- 🗣️ Speak or present at a local tech event or meetup
+
 
 ---
 
